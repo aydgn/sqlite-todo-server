@@ -73,17 +73,3 @@ You can interact with the API using tools like Postman, curl, or any other HTTP 
    ```bash
    curl -X DELETE http://localhost:3000/todos/2
    ```
-
-## Technologies Used
-
-* **Node.js:** JavaScript runtime environment.
-* **Express:** Web framework for building Node.js web applications.
-* **SQLite:** Lightweight, embedded database system.
-
-## Contributions
-
-Contributions are welcome! Please feel free to submit issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
